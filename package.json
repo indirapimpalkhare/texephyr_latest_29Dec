@@ -1,0 +1,16 @@
+{
+  "name": "git2_tex",
+  "version": "1.0.0",
+  "description": "npm just to add jquery",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "npm": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shrutika",
+  "license": "ISC"
+}
